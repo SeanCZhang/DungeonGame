@@ -1,4 +1,3 @@
-package DungeonGame;
 public class Enemy {
 	String enemyName;
 	int maxHealth;
