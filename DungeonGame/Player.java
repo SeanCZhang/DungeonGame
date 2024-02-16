@@ -1,5 +1,3 @@
-package DungeonGame;
-
 class Player {
 	String playerName;
 	int maxHealth;
